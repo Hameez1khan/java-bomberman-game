@@ -1,0 +1,12 @@
+# Ignore Eclipse workspace-specific metadata
+.metadata/
+
+# Ignore compiled output
+bin/
+build/
+
+# OS-specific and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp       
