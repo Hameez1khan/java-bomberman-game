@@ -1,0 +1,21 @@
+INDEX VERSION 1.134+C:\Users\ROG\Downloads\eclipse bomberman\.metadata\.plugins\org.eclipse.jdt.core
+924629399.index
+3835501435.index
+2174025240.index
+1865797976.index
+1212471865.index
+4190169928.index
+2465892314.index
+655277768.index
+2460370961.index
+1978778966.index
+1035067002.index
+4062200690.index
+3135725569.index
+2470430021.index
+2391204515.index
+252815340.index
+894907337.index
+980953104.index
+1288848795.index
+1348770148.index
